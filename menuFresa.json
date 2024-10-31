@@ -1,0 +1,226 @@
+{
+    "products": [
+        {
+            "id":   "1",
+            "nombre":   "Crema Fresa + Crema de Leche",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "2",
+            "nombre":   "Crema Fresa Glaseada + Crema de Leche",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "3",
+            "nombre":   "Crema Fresa Durazno + Crema de Leche",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "4",
+            "nombre":   "Crema Fresa Maracuya + Crema de Leche",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "5",
+            "nombre":   "Crema Fresa con Leche",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "6",
+            "nombre":   "Crema Fresa Oreo + Crema de Leche",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "7",
+            "nombre":   "Frozen Limón Fresa",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "8",
+            "nombre":   "Frozen de Fresa",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "9",
+            "nombre":   "Fresa Piña Durazno",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "10",
+            "nombre":   "Frozen Fresa + Leche",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "11",
+            "nombre":   "Frozen de Lúcuma",
+            "precio":   18.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "12",
+            "nombre":   "Frozen de Maracuya",
+            "precio":   18.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "13",
+            "nombre":   "Frozen de Coco",
+            "precio":   18.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "14",
+            "nombre":   "Té Jazmín + Limón",
+            "precio":   15.00,
+            "foto": "1https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "15",
+            "nombre":   "Té + Leche",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "16",
+            "nombre":   "Pulpa Fruta",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "17",
+            "nombre":   "Leche Coco con Fruta",
+            "precio":   18.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "18",
+            "nombre":   "Frappe + Frutas",
+            "precio":   18.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "19",
+            "nombre":   "Sanguche Pollo Deshilachado",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "20",
+            "nombre":   "Sanguche Pavo Horneado",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "21",
+            "nombre":   "Sanguche Jamón y Queso",
+            "precio":   10.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "22",
+            "nombre":   "Sanguche Lomito Ahumado",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "23",
+            "nombre":   "Sanguche Chicharrón",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "24",
+            "nombre":   "Sanguche Crossain Jamón + Queso",
+            "precio":   12.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "25",
+            "nombre":   "Cecina + Tacacho",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "26",
+            "nombre":   "Sanguche de Huevo",
+            "precio":   4.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "27",
+            "nombre":   "Empanadas",
+            "precio":   5.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "28",
+            "nombre":   "Keke",
+            "precio":   3.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "29",
+            "nombre":   "Juane",
+            "precio":   10.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "30",
+            "nombre":   "Pan al Ajo",
+            "precio":   4.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "31",
+            "nombre":   "Tostadas",
+            "precio":   2.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "32",
+            "nombre":   "Café Orgánico",
+            "precio":   15.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "33",
+            "nombre":   "Café Pasado",
+            "precio":   8.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "34",
+            "nombre":   "Té de Canela y Clavo",
+            "precio":   5.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "35",
+            "nombre":   "Té de Anís",
+            "precio":   5.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "36",
+            "nombre":   "Té de Manzanilla",
+            "precio":   5.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        },
+        {
+            "id":   "37",
+            "nombre":   "Café con Leche",
+            "precio":   8.00,
+            "foto": "https://fastly.picsum.photos/id/237/200/200.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U"
+        }
+    ]
+}
